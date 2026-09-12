@@ -1,11 +1,14 @@
-# Hello, I'm Angela Regina Rossi
+# Hello, I'm Angela Rossi
 
 Welcome to my GitHub profile, I'm an Italian Computer Scientist & Engineer, with a passion for nature. 
 ---
 
 ## 💼 Professional Experience
 
-- **Automations Engineer & AI Specialist** @ Henko SRL (Jul 2025 – Present)  
+- **Automations Engineer & Waste Management** @ Verde Ambiente (Jul 2025 – Present)     
+  Programming business automations, helping with the waste management bureaucreacy.
+  
+- **Automations Engineer & AI Specialist** @ Henko SRL (Jul 2025 – Jul 2026)  
   Programming AI models and machine learning algorithms, creating business automations.
 
 - **Junior System Administrator & Developer (Intern)** @ ELAN42 (May 2025 – Jun 2025)  
@@ -41,22 +44,22 @@ Welcome to my GitHub profile, I'm an Italian Computer Scientist & Engineer, with
 
 ## 🎓 Academic Background
 
-- 🧮 *First Level Master’s Degree for Teaching STEM (Mathematics and Sciences)*    
-  **Mnemosine Institute**, 2026 | EQF 7     
+- 🧮 *Second Level Master Degree in General Theory of the Natural Sciences*    
+  **Università Marconi**, 2027 | EQF 8     
   
 - 🦧 *Professional Qualification: GAE Nature and Walking Guide*  
   **Helios Study Center**, 2026 | EQF 5         
   Focus: Environmental Educator.                
   
 - 💻 *MSc in Multimedia Communications and Information Technology*  
-  **University of Udine**, 2026 | EQF 7  
+  **University of Udine**, 2027 | EQF 7  
   Focus: Artificial Intelligence, Industrial Automation, IoT  
-  Thesis in progress: _"From Tools to Solarpunk: Technological Evolution and Resilience"_
+  Thesis in progress: _"Autonomous Driving Architecture in Level 4 Systems: The Waymo Approach and Development of an Experimental Prototype"_    
 
 - 🎵 *BA in Instrumental and Music Education*          
   **Conservatorio Benedetto Marcello**, 2024 | EQF 6    
   Focus: Jazz Piano     
-  Thesis: _"Digital Dreams: How Videogames Revolutionized the World"_
+  Thesis: _"Digital Dreams: How Videogames Revolutionized the World"_    
 
 - 🖋️ *Post Diploma Course in Communication and social media marketing in industrial companies*          
   **Università Pegaso**, 2026 | EQF 5     
@@ -98,7 +101,7 @@ Welcome to my GitHub profile, I'm an Italian Computer Scientist & Engineer, with
   Unity, Blender, Rewst, WHMCS, Plesk, Angular
 
 - **Languages:**  
-  🇮🇹 Italian (Native), 🇬🇧 English (C2 - Cambridge Proficiency), 🇪🇸 Spanish (C1)       
+  🇮🇹 Italian (Native), 🇬🇧 English (C2 - Cambridge Proficiency), 🇪🇸 Spanish (C1), German (B2)                
 
 ---
 
