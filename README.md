@@ -5,7 +5,7 @@ Welcome to my GitHub profile, I'm an Italian Computer Scientist & Engineer, with
 
 ## 💼 Professional Experience
 
-- **Automations Engineer & Waste Management** @ Verde Ambiente (Jul 2025 – Present)     
+- **Automations Engineer & Waste Management** @ Verde Ambiente (Jul 2026 – Present)     
   Programming business automations, helping with the waste management bureaucreacy.
   
 - **Automations Engineer & AI Specialist** @ Henko SRL (Jul 2025 – Jul 2026)  
